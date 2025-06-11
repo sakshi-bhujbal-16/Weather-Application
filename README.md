@@ -1,9 +1,6 @@
 #Weather Application
 A responsive and user-friendly Weather Application built using HTML, CSS, and JavaScript. This project fetches real-time weather data from a third-party API and displays it in a clean, visually appealing interface.
 
-![Uploading Screenshot (25).png…]()
-
-
 Features
 •	Get current weather by city name
 •	Displays temperature, humidity, weather condition, wind speed, and more
