@@ -1,4 +1,4 @@
-const apiKey = '1f4c597377f4da67d7b8cde7dbb1ebf1'; // TODO: This key is likely invalid due to public exposure. Please generate a new, private key at https://home.openweathermap.org/api_keys
+const apiKey = '1f4c597377f4da67d7b8cde7dbb1ebf1'; 
 const weatherInfo = document.getElementById('weatherInfo');
 const error = document.getElementById('error');
 const cityInput = document.getElementById('cityInput');
